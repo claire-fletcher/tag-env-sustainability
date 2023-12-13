@@ -10,14 +10,14 @@ This glossary aims to define the wording used within our Technical Advisory Grou
 
 ### C
 
-#### **Carbon or Carbon Dioxide (CO2)**
+#### **Carbon or Carbon Dioxide (CO₂)**
 
 Carbon Dioxide commonly just named carbon is a colorless, odorless gas, that is released from burning fossil fuels, such as coal, oil, and natural gas.
-CO2 emissions are fundamentally a natural process, but one that has been exacerbated by the burning of natural resources for energy production or logistics to such an extent that it is now a major factor in climate change. Depending on how the supply chain of hardware (e.g. computer chips, cables etc.) and software (e.g. digital services like cloud computing, file sharing etc.) production/services is structured, CO2 gets emitted.
+CO₂ emissions are fundamentally a natural process, but one that has been exacerbated by the burning of natural resources for energy production or logistics to such an extent that it is now a major factor in climate change. Depending on how the supply chain of hardware (e.g. computer chips, cables etc.) and software (e.g. digital services like cloud computing, file sharing etc.) production/services is structured, CO₂ gets emitted.
 
 #### **Carbon Diet**
 
-Actions to reduce the output of CO2 to reduce the impact on the environment.
+Actions to reduce the output of CO₂ to reduce the impact on the environment.
 
 #### **Carbon Footprint**
 
@@ -39,9 +39,9 @@ Goods and services that use fewer resources and create less waste and pollution.
 #### **Emissions**
 
 An umbrella term under which for example also greenhouse gasses are covered. But emissions include other factors like micro particles that cause pollution. Emissions are categorized into three scopes:
-Scope 1: direct emissions: the CO2 output of the vehicles owned by the company
+Scope 1: direct emissions: the CO₂ output of the vehicles owned by the company
 Scope 2: indirect emissions: the power consumption of a data center, that causes emissions by the production of electricity
-Scope 3: indirect emissions, that not directly can be changed: delivery chain caused CO2 pollution
+Scope 3: indirect emissions, that not directly can be changed: delivery chain caused CO₂ pollution
 
 #### **Embodied (Carbon) Emissions**
 

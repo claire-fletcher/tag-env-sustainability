@@ -243,7 +243,7 @@ flowchart TB
 
 :eyes: [gProfiler](https://docs.gprofiler.io/) - 애플리케이션의 실행 순서와 리소스 사용량을 코드 수준까지 시각화하는 OS 코드 프로파일링 도구&#x20;
 
-무료 셀프 서비스 오픈 소스인 gProfiler는 기업이 지속적인 프로파일링을 통해 애플리케이션 성능을 개선하여 비용을 절감하고 탄소 발자국을 최소화할 수 있도록 지원합니다. 세분화된 사용자는 CO2 절감량 측정기를 통해 비용 및 리소스 절감과 함께 gCenter 대시보드에서 탄소 배출량 감소를 모니터링할 수 있습니다.
+무료 셀프 서비스 오픈 소스인 gProfiler는 기업이 지속적인 프로파일링을 통해 애플리케이션 성능을 개선하여 비용을 절감하고 탄소 발자국을 최소화할 수 있도록 지원합니다. 세분화된 사용자는 CO₂ 절감량 측정기를 통해 비용 및 리소스 절감과 함께 gCenter 대시보드에서 탄소 배출량 감소를 모니터링할 수 있습니다.
 
 :eyes: [PowerAPI Python 프레임워크](https://github.com/powerapi-ng/) - 소프트웨어 정의 전력 측정기 PowerAPI는 소프트웨어 정의 전력계를 구축하기 위한 미들웨어 툴킷입니다. 소프트웨어 정의 전력 측정기는 소프트웨어의 전력 소비를 실시간으로 추정할 수 있는 구성 가능한 소프트웨어 라이브러리입니다. PowerAPI는 다양한 센서(예: 물리적 측정기, 프로세서 인터페이스, 하드웨어 카운터, OS 카운터)에서 원시 메트릭을 수집하고 다양한 채널(파일 시스템, 네트워크, 웹, 그래픽 포함)을 통해 전력 소비량을 전달할 수 있도록 지원합니다. 미들웨어 툴킷인 PowerAPI는 사용자 요구 사항을 수용하기 위해 전력 측정기를 "단품(à la carte)"으로 조립할 수 있는 기능을 제공합니다.
 
@@ -259,7 +259,7 @@ flowchart TB
 
 :eyes: [클라우드 탄소 발자국](https://www.cloudcarbonfootprint.org/docs/) &#x20;
 
-이 애플리케이션은 주요 클라우드 제공업체로부터 사용 데이터(컴퓨팅, 스토리지, 네트워킹 등)를 가져와 예상 에너지(와트시)와 온실가스 배출량을 이산화탄소 환산량( 메트릭 톤 CO2e)으로 표시하여 계산합니다. 이러한 시각화를 대시보드에 표시하여 개발자, 지속 가능성 리더 및 조직의 기타 이해관계자가 보고 조치를 취할 수 있도록 합니다. 현재 AWS, Google Cloud 및 Microsoft Azure를 지원합니다.
+이 애플리케이션은 주요 클라우드 제공업체로부터 사용 데이터(컴퓨팅, 스토리지, 네트워킹 등)를 가져와 예상 에너지(와트시)와 온실가스 배출량을 이산화탄소 환산량( 메트릭 톤 CO₂e)으로 표시하여 계산합니다. 이러한 시각화를 대시보드에 표시하여 개발자, 지속 가능성 리더 및 조직의 기타 이해관계자가 보고 조치를 취할 수 있도록 합니다. 현재 AWS, Google Cloud 및 Microsoft Azure를 지원합니다.
 
 :eyes: [PowerTOP](https://github.com/fenrus75/powertop) - Linux 도구로, 무엇보다도 Linux 시스템에서 실행 중인 프로세스당 전력 소비를 모니터링할 수 있습니다.
 
@@ -363,11 +363,11 @@ flowchart TB
 
 ### 탄소 배출량 보고서
 
-:page_facing_up: IEA 배출량 - [2019년 글로벌 에너지 및 CO2 현황 보고서](https://www.iea.org/reports/global-energy-co2-status-report-2019/emissions)
+:page_facing_up: IEA 배출량 - [2019년 글로벌 에너지 및 CO₂ 현황 보고서](https://www.iea.org/reports/global-energy-CO₂-status-report-2019/emissions)
 
 :page_facing_up: 유럽 환경청 - [EU 온실가스 배출 강도](https://www.eea.europa.eu/ims/greenhouse-gas-emission-intensity-of-1)&#x20;
 
-:page_facing_up: [전력지도](https://app.electricitymaps.com/map)- 실시간 CO2 배출량 데이터&#x20;
+:page_facing_up: [전력지도](https://app.electricitymaps.com/map)- 실시간 CO₂ 배출량 데이터&#x20;
 
 [SCI 보고](https://github.com/Green-Software-Foundation/sci-reporting) - SCI 점수를 저장, 호스팅 및 공개적으로 보고하기 위한 인프라와 프로세스를 생성하고, SCI 사양 내에서 기타 관련 보고 요건을 충족합니다.&#x20;
 
