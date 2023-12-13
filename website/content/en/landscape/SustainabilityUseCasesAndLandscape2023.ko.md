@@ -363,7 +363,7 @@ flowchart TB
 
 ### 탄소 배출량 보고서
 
-:page_facing_up: IEA 배출량 - [2019년 글로벌 에너지 및 CO₂ 현황 보고서](https://www.iea.org/reports/global-energy-CO₂-status-report-2019/emissions)
+:page_facing_up: IEA 배출량 - [2019년 글로벌 에너지 및 CO₂ 현황 보고서](https://www.iea.org/reports/global-energy-co2-status-report-2019/emissions)
 
 :page_facing_up: 유럽 환경청 - [EU 온실가스 배출 강도](https://www.eea.europa.eu/ims/greenhouse-gas-emission-intensity-of-1)&#x20;
 
